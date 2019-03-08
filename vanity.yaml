@@ -1,8 +1,14 @@
-host: rakyll.pizza
+host: gomodules.xyz
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /envconfig:
+    repo: https://github.com/gomodules/envconfig
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /envsubst:
+    repo: https://github.com/gomodules/envsubst
+
+  /notify:
+    repo: https://github.com/gomodules/notify
+
+  /version:
+    repo: https://github.com/gomodules/version
