@@ -1,6 +1,9 @@
 host: gomodules.xyz
 
 paths:
+  /cert:
+    repo: https://github.com/gomodules/cert
+
   /envconfig:
     repo: https://github.com/gomodules/envconfig
 
