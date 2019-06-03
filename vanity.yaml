@@ -4,6 +4,9 @@ paths:
   /cert:
     repo: https://github.com/gomodules/cert
 
+  /dns:
+    repo: https://github.com/gomodules/dns
+
   /envconfig:
     repo: https://github.com/gomodules/envconfig
 
@@ -13,8 +16,8 @@ paths:
   /goautoneg:
     repo: https://github.com/gomodules/goautoneg
 
-  /ksm-xorm:
-    repo: https://github.com/gomodules/ksm-xorm
+  /grpc-go-addons:
+    repo: https://github.com/gomodules/grpc-go-addons
 
   /notify:
     repo: https://github.com/gomodules/notify
