@@ -22,6 +22,9 @@ paths:
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
 
+  /nats-logr:
+    repo: https://github.com/gomodules/nats-logr
+
   /notify:
     repo: https://github.com/gomodules/notify
 
