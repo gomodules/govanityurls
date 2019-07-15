@@ -28,6 +28,9 @@ paths:
   /notify:
     repo: https://github.com/gomodules/notify
 
+  /stow:
+    repo: https://github.com/gomodules/stow
+
   /union-logr:
     repo: https://github.com/gomodules/union-logr
 
