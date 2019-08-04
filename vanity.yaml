@@ -28,6 +28,9 @@ paths:
   /notify:
     repo: https://github.com/gomodules/notify
 
+  /secrets:
+    repo: https://github.com/gomodules/secrets
+
   /stow:
     repo: https://github.com/gomodules/stow
 
