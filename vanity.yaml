@@ -1,6 +1,9 @@
 host: gomodules.xyz
 
 paths:
+  /blobfs:
+    repo: https://github.com/gomodules/blobfs
+
   /cert:
     repo: https://github.com/gomodules/cert
 
