@@ -7,6 +7,9 @@ paths:
   /cert:
     repo: https://github.com/gomodules/cert
 
+  /clock:
+    repo: https://github.com/gomodules/clock
+
   /dns:
     repo: https://github.com/gomodules/dns
 
