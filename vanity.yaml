@@ -43,6 +43,9 @@ paths:
   /orderedmap:
     repo: https://github.com/gomodules/orderedmap
 
+  /password-generator:
+    repo: https://github.com/gomodules/password-generator
+
   /secrets:
     repo: https://github.com/gomodules/secrets
 
