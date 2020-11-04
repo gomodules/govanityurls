@@ -61,6 +61,9 @@ paths:
   /sets:
     repo: https://github.com/gomodules/sets
 
+  /signals:
+    repo: https://github.com/gomodules/signals
+
   /stow:
     repo: https://github.com/gomodules/stow
 
