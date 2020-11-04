@@ -22,11 +22,17 @@ paths:
   /envsubst:
     repo: https://github.com/gomodules/envsubst
 
+  /errors:
+    repo: https://github.com/gomodules/errors
+
   /goautoneg:
     repo: https://github.com/gomodules/goautoneg
 
   /grpc-go-addons:
     repo: https://github.com/gomodules/grpc-go-addons
+
+  /homedir:
+    repo: https://github.com/gomodules/homedir
 
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
@@ -45,6 +51,9 @@ paths:
 
   /password-generator:
     repo: https://github.com/gomodules/password-generator
+
+  /reaper:
+    repo: https://github.com/gomodules/reaper
 
   /secrets:
     repo: https://github.com/gomodules/secrets
