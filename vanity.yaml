@@ -55,6 +55,9 @@ paths:
   /reaper:
     repo: https://github.com/gomodules/reaper
 
+  /runtime:
+    repo: https://github.com/gomodules/runtime
+
   /secrets:
     repo: https://github.com/gomodules/secrets
 
