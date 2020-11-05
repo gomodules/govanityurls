@@ -84,3 +84,6 @@ paths:
 
   /wait:
     repo: https://github.com/gomodules/wait
+
+  /x:
+    repo: https://github.com/gomodules/x
