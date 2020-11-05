@@ -52,6 +52,9 @@ paths:
   /password-generator:
     repo: https://github.com/gomodules/password-generator
 
+  /pointer:
+    repo: https://github.com/gomodules/pointer
+
   /reaper:
     repo: https://github.com/gomodules/reaper
 
@@ -69,6 +72,9 @@ paths:
 
   /stow:
     repo: https://github.com/gomodules/stow
+
+  /sync:
+    repo: https://github.com/gomodules/sync
 
   /union-logr:
     repo: https://github.com/gomodules/union-logr
