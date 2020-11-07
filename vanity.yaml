@@ -37,6 +37,9 @@ paths:
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
 
+  /mod:
+    repo: https://github.com/gomodules/mod
+
   /nats-logr:
     repo: https://github.com/gomodules/nats-logr
 
