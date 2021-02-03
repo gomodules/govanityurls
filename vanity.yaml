@@ -25,6 +25,9 @@ paths:
   /errors:
     repo: https://github.com/gomodules/errors
 
+  /freshsales-client-go:
+    repo: https://github.com/gomodules/freshsales-client-go
+
   /goautoneg:
     repo: https://github.com/gomodules/goautoneg
 
