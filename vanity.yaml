@@ -31,8 +31,8 @@ paths:
   /goautoneg:
     repo: https://github.com/gomodules/goautoneg
 
-  /gdrive-tools:
-    repo: https://github.com/gomodules/gdrive-tools
+  /gdrive-utils:
+    repo: https://github.com/gomodules/gdrive-utils
 
   /grpc-go-addons:
     repo: https://github.com/gomodules/grpc-go-addons
