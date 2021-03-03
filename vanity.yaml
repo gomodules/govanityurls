@@ -73,6 +73,9 @@ paths:
   /secrets:
     repo: https://github.com/gomodules/secrets
 
+  /semvers:
+    repo: https://github.com/gomodules/semvers
+
   /sets:
     repo: https://github.com/gomodules/sets
 
