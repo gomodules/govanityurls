@@ -43,6 +43,9 @@ paths:
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
 
+  /listmonk:
+    repo: https://github.com/gomodules/listmonk
+
   /mod:
     repo: https://github.com/gomodules/mod
 
