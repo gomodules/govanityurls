@@ -43,6 +43,9 @@ paths:
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
 
+  /jsonpath:
+    repo: https://github.com/gomodules/jsonpath
+
   /listmonk-client-go:
     repo: https://github.com/gomodules/listmonk-client-go
 
