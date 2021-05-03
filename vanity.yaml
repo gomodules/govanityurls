@@ -70,6 +70,9 @@ paths:
   /pointer:
     repo: https://github.com/gomodules/pointer
 
+  /refutil:
+    repo: https://github.com/gomodules/refutil
+
   /reaper:
     repo: https://github.com/gomodules/reaper
 
