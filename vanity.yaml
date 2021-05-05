@@ -46,6 +46,9 @@ paths:
   /jsonpath:
     repo: https://github.com/gomodules/jsonpath
 
+  /kglog:
+    repo: https://github.com/gomodules/kglog
+
   /listmonk-client-go:
     repo: https://github.com/gomodules/listmonk-client-go
 
