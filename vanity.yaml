@@ -1,6 +1,9 @@
 host: gomodules.xyz
 
 paths:
+  /atomic-writer:
+    repo: https://github.com/gomodules/atomic-writer
+
   /blobfs:
     repo: https://github.com/gomodules/blobfs
 
