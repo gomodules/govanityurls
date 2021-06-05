@@ -28,6 +28,9 @@ paths:
   /errors:
     repo: https://github.com/gomodules/errors
 
+  /flags:
+    repo: https://github.com/gomodules/flags
+
   /freshsales-client-go:
     repo: https://github.com/gomodules/freshsales-client-go
 
