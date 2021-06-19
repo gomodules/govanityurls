@@ -126,3 +126,6 @@ paths:
 
   /x:
     repo: https://github.com/gomodules/x
+
+  /ulids:
+    repo: https://github.com/gomodules/ulids
