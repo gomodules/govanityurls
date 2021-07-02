@@ -64,6 +64,9 @@ paths:
   /logs:
     repo: https://github.com/gomodules/logs
 
+  /mergo:
+    repo: https://github.com/gomodules/mergo
+
   /mod:
     repo: https://github.com/gomodules/mod
 
