@@ -10,6 +10,9 @@ paths:
   /cert:
     repo: https://github.com/gomodules/cert
 
+  /ci:
+    repo: https://github.com/gomodules/ci
+
   /clock:
     repo: https://github.com/gomodules/clock
 
