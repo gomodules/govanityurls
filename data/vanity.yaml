@@ -117,6 +117,8 @@ paths:
 
   /sets:
     repo: https://github.com/gomodules/sets
+    versions:
+      - kubernetes
 
   /signals:
     repo: https://github.com/gomodules/signals
