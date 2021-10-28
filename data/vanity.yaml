@@ -94,6 +94,9 @@ paths:
   /orderedmap:
     repo: https://github.com/gomodules/orderedmap
 
+  /osrelease:
+    repo: https://github.com/gomodules/osrelease
+
   /password-generator:
     repo: https://github.com/gomodules/password-generator
 
