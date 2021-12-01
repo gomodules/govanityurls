@@ -76,6 +76,9 @@ paths:
   /logs:
     repo: https://github.com/gomodules/logs
 
+  /mailer:
+    repo: https://github.com/gomodules/mailer
+
   /mergo:
     repo: https://github.com/gomodules/mergo
 
