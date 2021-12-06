@@ -79,6 +79,9 @@ paths:
   /mailer:
     repo: https://github.com/gomodules/mailer
 
+  /memfs:
+    repo: https://github.com/gomodules/memfs
+
   /mergo:
     repo: https://github.com/gomodules/mergo
 
