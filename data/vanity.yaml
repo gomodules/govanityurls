@@ -19,6 +19,9 @@ paths:
   /dns:
     repo: https://github.com/gomodules/dns
 
+  /email:
+    repo: https://github.com/gomodules/email
+
   /email-providers:
     repo: https://github.com/gomodules/email-providers
 
