@@ -144,8 +144,8 @@ paths:
   /sync:
     repo: https://github.com/gomodules/sync
 
-  /tasks:
-    repo: https://github.com/gomodules/tasks
+  /natjobs:
+    repo: https://github.com/gomodules/natjobs
 
   /union-logr:
     repo: https://github.com/gomodules/union-logr
