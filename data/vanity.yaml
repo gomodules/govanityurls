@@ -91,6 +91,9 @@ paths:
   /mod:
     repo: https://github.com/gomodules/mod
 
+  /natjobs:
+    repo: https://github.com/gomodules/natjobs
+
   /nats-logr:
     repo: https://github.com/gomodules/nats-logr
 
@@ -144,8 +147,8 @@ paths:
   /sync:
     repo: https://github.com/gomodules/sync
 
-  /natjobs:
-    repo: https://github.com/gomodules/natjobs
+  /testing:
+    repo: https://github.com/gomodules/testing
 
   /union-logr:
     repo: https://github.com/gomodules/union-logr
