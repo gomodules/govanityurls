@@ -150,6 +150,9 @@ paths:
   /testing:
     repo: https://github.com/gomodules/testing
 
+  /trie:
+    repo: https://github.com/gomodules/trie
+
   /union-logr:
     repo: https://github.com/gomodules/union-logr
 
