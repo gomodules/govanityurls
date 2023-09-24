@@ -167,3 +167,6 @@ paths:
 
   /ulids:
     repo: https://github.com/gomodules/ulids
+
+  /zoom-lib-golang:
+    repo: https://github.com/gomodules/zoom-lib-golang
