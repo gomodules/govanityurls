@@ -16,6 +16,9 @@ paths:
   /clock:
     repo: https://github.com/gomodules/clock
 
+  /counter:
+    repo: https://github.com/gomodules/counter
+
   /dns:
     repo: https://github.com/gomodules/dns
 
