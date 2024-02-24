@@ -171,5 +171,8 @@ paths:
   /ulids:
     repo: https://github.com/gomodules/ulids
 
+  /url-generator:
+    repo: https://github.com/gomodules/url-generator
+
   /zoom-lib-golang:
     repo: https://github.com/gomodules/zoom-lib-golang
