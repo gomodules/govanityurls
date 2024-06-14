@@ -4,6 +4,9 @@ paths:
   /atomic-writer:
     repo: https://github.com/gomodules/atomic-writer
 
+  /azure-retail-prices-sdk-for-go:
+    repo: https://github.com/gomodules/azure-retail-prices-sdk-for-go
+
   /blobfs:
     repo: https://github.com/gomodules/blobfs
 
