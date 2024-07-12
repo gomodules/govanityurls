@@ -144,6 +144,9 @@ paths:
   /signals:
     repo: https://github.com/gomodules/signals
 
+  /simplejson:
+    repo: https://github.com/gomodules/simplejson
+
   /ssh:
     repo: https://github.com/gomodules/ssh
 
