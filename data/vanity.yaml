@@ -133,6 +133,9 @@ paths:
   /secrets:
     repo: https://github.com/gomodules/secrets
 
+  /securejsondata:
+    repo: https://github.com/gomodules/securejsondata
+
   /semvers:
     repo: https://github.com/gomodules/semvers
 
