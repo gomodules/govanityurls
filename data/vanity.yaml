@@ -177,6 +177,9 @@ paths:
   /x:
     repo: https://github.com/gomodules/x
 
+  /ymerge:
+    repo: https://github.com/gomodules/ymerge
+
   /ulids:
     repo: https://github.com/gomodules/ulids
 
