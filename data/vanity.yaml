@@ -177,6 +177,9 @@ paths:
   /x:
     repo: https://github.com/gomodules/x
 
+  /yfmt:
+    repo: https://github.com/gomodules/yfmt
+
   /ymerge:
     repo: https://github.com/gomodules/ymerge
 
