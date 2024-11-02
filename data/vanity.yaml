@@ -1,193 +1,133 @@
 host: gomodules.xyz
-
 paths:
   /atomic-writer:
     repo: https://github.com/gomodules/atomic-writer
-
   /azure-retail-prices-sdk-for-go:
     repo: https://github.com/gomodules/azure-retail-prices-sdk-for-go
-
+  /bits:
+    repo: https://github.com/gomodules/bits
   /blobfs:
     repo: https://github.com/gomodules/blobfs
-
   /cert:
     repo: https://github.com/gomodules/cert
-
   /ci:
     repo: https://github.com/gomodules/ci
-
   /clock:
     repo: https://github.com/gomodules/clock
-
   /counter:
     repo: https://github.com/gomodules/counter
-
   /dns:
     repo: https://github.com/gomodules/dns
-
   /email:
     repo: https://github.com/gomodules/email
-
   /email-providers:
     repo: https://github.com/gomodules/email-providers
-
   /encoding:
     repo: https://github.com/gomodules/encoding
-
   /envconfig:
     repo: https://github.com/gomodules/envconfig
-
   /envsubst:
     repo: https://github.com/gomodules/envsubst
-
   /errors:
     repo: https://github.com/gomodules/errors
-
   /eval:
     repo: https://github.com/gomodules/eval
-
   /flags:
     repo: https://github.com/gomodules/flags
-
   /freshsales-client-go:
     repo: https://github.com/gomodules/freshsales-client-go
-
-  /goautoneg:
-    repo: https://github.com/gomodules/goautoneg
-
-  /go-sh:
-    repo: https://github.com/gomodules/go-sh
-
   /gdrive-utils:
     repo: https://github.com/gomodules/gdrive-utils
-
+  /go-sh:
+    repo: https://github.com/gomodules/go-sh
+  /goautoneg:
+    repo: https://github.com/gomodules/goautoneg
   /grpc-go-addons:
     repo: https://github.com/gomodules/grpc-go-addons
-
   /homedir:
     repo: https://github.com/gomodules/homedir
-
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
     versions:
-      - v2
-      - v3
-
+    - v2
+    - v3
   /jsonpath:
     repo: https://github.com/gomodules/jsonpath
-
   /kglog:
     repo: https://github.com/gomodules/kglog
-
   /listmonk-client-go:
     repo: https://github.com/gomodules/listmonk-client-go
-
   /logs:
     repo: https://github.com/gomodules/logs
-
   /mailer:
     repo: https://github.com/gomodules/mailer
-
   /memfs:
     repo: https://github.com/gomodules/memfs
-
   /mergo:
     repo: https://github.com/gomodules/mergo
-
   /mod:
     repo: https://github.com/gomodules/mod
-
   /natjobs:
     repo: https://github.com/gomodules/natjobs
-
   /nats-logr:
     repo: https://github.com/gomodules/nats-logr
-
   /notify:
     repo: https://github.com/gomodules/notify
-
   /oneliners:
     repo: https://github.com/gomodules/go-oneliners
-
   /orderedmap:
     repo: https://github.com/gomodules/orderedmap
-
   /osrelease:
     repo: https://github.com/gomodules/osrelease
-
   /password-generator:
     repo: https://github.com/gomodules/password-generator
-
   /pointer:
     repo: https://github.com/gomodules/pointer
-
-  /refutil:
-    repo: https://github.com/gomodules/refutil
-
   /reaper:
     repo: https://github.com/gomodules/reaper
-
+  /refutil:
+    repo: https://github.com/gomodules/refutil
   /runtime:
     repo: https://github.com/gomodules/runtime
-
   /secrets:
     repo: https://github.com/gomodules/secrets
-
   /securejsondata:
     repo: https://github.com/gomodules/securejsondata
-
   /semvers:
     repo: https://github.com/gomodules/semvers
-
   /sets:
     repo: https://github.com/gomodules/sets
     versions:
-      - kubernetes
-
+    - kubernetes
   /signals:
     repo: https://github.com/gomodules/signals
-
   /simplejson:
     repo: https://github.com/gomodules/simplejson
-
   /ssh:
     repo: https://github.com/gomodules/ssh
-
   /stow:
     repo: https://github.com/gomodules/stow
-
   /sync:
     repo: https://github.com/gomodules/sync
-
   /testing:
     repo: https://github.com/gomodules/testing
-
   /trie:
     repo: https://github.com/gomodules/trie
-
-  /union-logr:
-    repo: https://github.com/gomodules/union-logr
-
-  /version:
-    repo: https://github.com/gomodules/version
-
-  /wait:
-    repo: https://github.com/gomodules/wait
-
-  /x:
-    repo: https://github.com/gomodules/x
-
-  /yfmt:
-    repo: https://github.com/gomodules/yfmt
-
-  /ymerge:
-    repo: https://github.com/gomodules/ymerge
-
   /ulids:
     repo: https://github.com/gomodules/ulids
-
+  /union-logr:
+    repo: https://github.com/gomodules/union-logr
   /url-generator:
     repo: https://github.com/gomodules/url-generator
-
+  /version:
+    repo: https://github.com/gomodules/version
+  /wait:
+    repo: https://github.com/gomodules/wait
+  /x:
+    repo: https://github.com/gomodules/x
+  /yfmt:
+    repo: https://github.com/gomodules/yfmt
+  /ymerge:
+    repo: https://github.com/gomodules/ymerge
   /zoom-lib-golang:
     repo: https://github.com/gomodules/zoom-lib-golang
