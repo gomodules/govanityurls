@@ -14,6 +14,8 @@ paths:
     repo: https://github.com/gomodules/ci
   /clock:
     repo: https://github.com/gomodules/clock
+  /consistent:
+    repo: https://github.com/gomodules/consistent
   /counter:
     repo: https://github.com/gomodules/counter
   /dns:
