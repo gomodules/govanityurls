@@ -121,6 +121,8 @@ paths:
     repo: https://github.com/gomodules/union-logr
   /url-generator:
     repo: https://github.com/gomodules/url-generator
+  /venv:
+    repo: https://github.com/gomodules/venv
   /version:
     repo: https://github.com/gomodules/version
   /wait:
