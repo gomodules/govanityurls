@@ -89,6 +89,8 @@ paths:
     repo: https://github.com/gomodules/reaper
   /refutil:
     repo: https://github.com/gomodules/refutil
+  /resource-quantity:
+    repo: https://github.com/gomodules/resource-quantity
   /runtime:
     repo: https://github.com/gomodules/runtime
   /secrets:
