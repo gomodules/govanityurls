@@ -91,6 +91,8 @@ paths:
     repo: https://github.com/gomodules/refutil
   /resource-quantity:
     repo: https://github.com/gomodules/resource-quantity
+  /restic:
+    repo: https://github.com/gomodules/restic
   /runtime:
     repo: https://github.com/gomodules/runtime
   /secrets:
