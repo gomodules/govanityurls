@@ -48,6 +48,8 @@ paths:
     repo: https://github.com/gomodules/grpc-go-addons
   /homedir:
     repo: https://github.com/gomodules/homedir
+  /html2text:
+    repo: https://github.com/gomodules/html2text
   /jsonpatch:
     repo: https://github.com/gomodules/jsonpatch
     versions:
