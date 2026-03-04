@@ -34,6 +34,8 @@ paths:
     repo: https://github.com/gomodules/errors
   /eval:
     repo: https://github.com/gomodules/eval
+  /filereceiver:
+    repo: https://github.com/gomodules/filereceiver
   /flags:
     repo: https://github.com/gomodules/flags
   /freshsales-client-go:
